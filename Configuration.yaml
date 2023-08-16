@@ -191,7 +191,6 @@ proxy-groups:
       - VMESS
       - TROJAN
       - MULTI443
-
 proxy-providers:
   akunvmess:
     type: http
