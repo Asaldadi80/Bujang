@@ -1,4 +1,4 @@
-base-bug:
+8base-bug:
   bug:
 #Tsel
     - &bug-Tsel1 static.starmakerstudios.com
@@ -426,10 +426,10 @@ proxies:
       name: Tsel1
       server: *bug-Tsel1 
       port: 443
-      uuid: c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3
-      servername: sg2-v2ray.sshkit.org
+      uuid: 1a1efae7-0585-4fd3-8389-efd10bf8c178
+      servername: sg-vmess-vvip-2.kmsp-ssh.my.id
       ws-opts:
-        path: /sshkit/439427127/642f26c604981/
+        path: /websocket-vmess
         headers:
           Host: sg2-v2ray.sshkit.org
           Early-Data: 1
