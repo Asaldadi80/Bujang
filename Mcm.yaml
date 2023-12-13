@@ -1,4 +1,4 @@
-8base-bug:
+base-bug:
   bug:
 #Tsel
     - &bug-Tsel1 static.starmakerstudios.com
