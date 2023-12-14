@@ -431,7 +431,7 @@ proxies:
       ws-opts:
         path: /websocket-vmess
         headers:
-          Host: sg2-v2ray.sshkit.org
+          Host: sg-vmess-vvip-2.kmsp-ssh.my.id
           Early-Data: 1
     - <<: *Fmess
       name: Tsel2
