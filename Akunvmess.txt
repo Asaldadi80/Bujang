@@ -478,12 +478,12 @@ proxies:
     - &VmessWSS
       <<: *basevmess
       name: VSSTsel1
-      server: sg-9.0rd.net 
+      server: sg-vmess-vvip-2.kmsp-ssh.my.id 
       port: 443
-      uuid: ee2ff020-3c60-11ee-b133-205c6d5f5d78
-      servername: sg-9.0rd.net
+      uuid: 1a1efae7-0585-4fd3-8389-efd10bf8c178
+      servername: sg-vmess-vvip-2.kmsp-ssh.my.id
       ws-opts:
-        path: /vkxgutlf
+        path: /websocket-vmess
         headers:
           Host: *bug-Tsel1
           Early-Data: 1
